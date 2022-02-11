@@ -1,3 +1,5 @@
+[![learn-github-actions](https://github.com/cheyer/github-actions-cron-test/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/cheyer/github-actions-cron-test/actions/workflows/learn-github-actions.yml)
+
 # github-actions-cron-test
 The purpose of this repository is learning how to use and develop with Github Actions.
 
