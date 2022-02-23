@@ -5,6 +5,8 @@ export URL="https://www.keychron.com/products/keychron-k3-wireless-mechanical-ke
 
 curl $URL > $FILE &&
 
+
+
 if cat $FILE | grep "$PATTERN"; then
     echo found
 else
